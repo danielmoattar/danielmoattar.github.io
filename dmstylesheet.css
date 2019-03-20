@@ -1,0 +1,22 @@
+body {
+  background-image: url("https://i.imgur.com/26ZiWLk.jpg");
+  width: 75vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: "black";
+  border:3px solid black;
+}
+
+h1 {
+  font-size: 5.9vw;
+}
+h2 {
+  font-size: 3.0vh;
+}
+h3 {
+   font-size: 1.0vh
+}
+p {
+  font-size: 3vmin;
+}
