@@ -1,0 +1,33 @@
+body {
+  background-image: url("https://i.imgur.com/26ZiWLk.jpg");
+<<<<<<< HEAD
+  background-repeat: no-repeat;
+=======
+>>>>>>> 779a20e7fdf232285d2831f88cf0ed865685bd9a
+  width: 75vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: "black";
+<<<<<<< HEAD
+=======
+  border:3px solid black;
+>>>>>>> 779a20e7fdf232285d2831f88cf0ed865685bd9a
+}
+
+h1 {
+  font-size: 3vw;
+}
+h2 {
+  font-size: 3.4vh;
+}
+h3 {
+   font-size: 3.0vh
+}
+p {
+<<<<<<< HEAD
+  font-size: 4vmin;
+=======
+  font-size: 5vmin;
+>>>>>>> 779a20e7fdf232285d2831f88cf0ed865685bd9a
+}
