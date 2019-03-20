@@ -1,7 +1,7 @@
-body {background-image: url("https://i.imgur.com/26ZiWLk.jpg")}
 
 @media only screen and (min-device-width:721px){
   body {
+    background-image: url("https://i.imgur.com/26ZiWLk.jpg");
     width: 100vw;
     position: absolute;
     top: 0;
@@ -28,9 +28,9 @@ body {background-image: url("https://i.imgur.com/26ZiWLk.jpg")}
 
 
 @media only screen and (max-device-width: 720px) {
-background-image:0
-background-color:#e5eeff;
+max-width: 60vw; font-size:14pt
   body {
+    background-image: url("https://www.fjwestcott.com/media/catalog/product/cache/1/image/690x690/9df78eab33525d08d6e5fb8d27136e95/d/0/d0011-43x43-tn.jpg");
     width: 100vw;
     position: absolute;
     top: 0;
@@ -38,8 +38,8 @@ background-color:#e5eeff;
     color: "black";
     word-wrap: break-word;
    }
-  ul {  max-width: 95vw; }
-  li {  max-width: 95vw; }
+  ul {  max-width: 60vw; font-size:14pt; }
+  li {  max-width: 60vw; font-size:14pt; }
   h1 {
     font-size: 5vh;
     max-width: 100vw;;
