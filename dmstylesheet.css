@@ -38,8 +38,8 @@ font-size: 10pt;
     color: "black";
     word-wrap: break-word;
    }
-  ul {  max-width: 80vw; max-width: 80ch; }
-  li {  max-width: 80vw; max-width: 80ch; }
+  ul {  font-size 1vh; max-width: 80vw; max-width: 80ch; }
+  li {  font-size 1vh; max-width: 80vw; max-width: 80ch; }
   h1 {
     font-size: 16pt;
     max-width: 100vw;;
