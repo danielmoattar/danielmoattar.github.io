@@ -1,16 +1,16 @@
+
+@media only screen and (min-width: 1441px){
 body {
   background-image: url("https://i.imgur.com/26ZiWLk.jpg");
-  background-repeat: no-repeat;
-  width: 100vw;
+  width: 75vw;
   position: absolute;
   top: 0;
   left: 0;
   color: "black";
-  border:3px solid black;
+  border: 3px solid black;
 }
-
 h1 {
-  font-size: 3vw;
+  font-size: 3.1vw;
 }
 h2 {
   font-size: 3.4vh;
@@ -20,4 +20,32 @@ h3 {
 }
 p {
   font-size: 4vmin;
+ }
+}
+
+
+@media only screen and (max-width: 1440px) {
+  body {
+  background-image: url("https://i.imgur.com/26ZiWLk.jpg");
+  background-repeat: no-repeat;
+  width: 100vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: "black";
+  word-wrap: break-word;
+  }
+  
+  h1 {
+  font-size: 16pt;
+}
+h2 {
+  font-size: 14pt;
+}
+h3 {
+   font-size: 12ptvh;
+}
+p {
+  font-size: 4vmin;
+}
 }
