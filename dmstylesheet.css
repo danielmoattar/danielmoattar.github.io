@@ -7,7 +7,6 @@ body {
   top: 0;
   left: 0;
   color: "black";
-  border: 3px solid black;
 }
 h1 {
   font-size: 3.1vw;
@@ -26,8 +25,7 @@ p {
 
 @media only screen and (max-width: 1440px) {
   body {
-  background-image: url("https://i.imgur.com/26ZiWLk.jpg");
-  background-repeat: no-repeat;
+  background-color: #e5eeff);
   width: 100vw;
   position: absolute;
   top: 0;
