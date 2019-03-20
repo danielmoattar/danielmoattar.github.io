@@ -28,8 +28,8 @@ body {background-image: url("https://i.imgur.com/26ZiWLk.jpg")}
 
 
 @media only screen and (max-device-width: 720px) {
+background-image:0
 background-color:#e5eeff;
-font-size: 1.8vh;
   body {
     width: 100vw;
     position: absolute;
@@ -38,8 +38,8 @@ font-size: 1.8vh;
     color: "black";
     word-wrap: break-word;
    }
-  ul {  font-size 1.8vh; max-width: 95vw; max-width: 80ch; }
-  li {  font-size 1.8vh; max-width: 95vw; max-width: 80ch; }
+  ul {  max-width: 95vw; }
+  li {  max-width: 95vw; }
   h1 {
     font-size: 5vh;
     max-width: 100vw;;
@@ -49,8 +49,8 @@ font-size: 1.8vh;
     max-width: 100vw;
    }
   h3 {
-   font-size: 2.8vh;
-   max-width: 95vw;
+   font-size: 3vh;
+   max-width: 100vw;
    }
   p {
    font-size: 4vmin;
