@@ -30,7 +30,7 @@
 @media only screen and (max-device-width: 720px) {
    a {
    text-decoration:none;
-   font-weight:600;
+   font-weight:550;
    }
   body {
     background-image: url("https://www.fjwestcott.com/media/catalog/product/cache/1/image/690x690/9df78eab33525d08d6e5fb8d27136e95/d/0/d0011-43x43-tn.jpg");
@@ -41,7 +41,7 @@
     left: 0;
     color: "black";
     max-width: 96vw; 
-    font-size:1.6vh;
+    font-size:1.5vh;
    }
   h1 {
     font-size: 5vh;
