@@ -6,7 +6,8 @@
     top: 0;
     left: 0;
     color: "black";
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
+    background-color: #f4f8ff;
    }
   h1 {
     font-size: 3.1vw;
@@ -27,14 +28,15 @@
 }
 
 
-@media only screen and (max-device-width: 720px) {
+@media only screen and (max-device-width: 720px) and (min-device-height: 720px) {
    a {
    text-decoration:none;
    font-weight:550;
    }
   body {
-    background-image: url("https://www.fjwestcott.com/media/catalog/product/cache/1/image/690x690/9df78eab33525d08d6e5fb8d27136e95/d/0/d0011-43x43-tn.jpg");
+    background-image: url("mobilebg.jpg");
     background-repeat: repeat;
+    background-color: lightgray;
     width: 100vw;
     position: absolute;
     top: 0;
